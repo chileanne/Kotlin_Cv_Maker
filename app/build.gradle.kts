@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "cub.sys360.kotlincvmaker"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "cub.sys360.kotlincvmaker"
